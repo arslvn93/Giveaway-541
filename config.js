@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>$500 in Pro Golf Lessons</span> at <span class='highlight'>Scarboro Golf & Country Club</span>!",
     "heroSubheadline": "Train with golf pro Matthew Peavoy. Get a multi lesson package for the 2026 season. Entry ends May 14. Toronto area only.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/x4snq26dexrmt0cwx0ea5mre3m.jpg",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ScarboroGandC3.jpg",
     "promotionDates": "Enter from March 23rd to May 14th, 2026, winner drawn May 14th, 2026.",
     "endDate": "2026-05-15T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Swing Into Spring Golf Lesson Package</strong> is in. We will draw the winner on May 14, 2026 and email the result. Good luck!",
-    "socialPromptText": "Watch your inbox on May 14. Check spam too. Follow us on social for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -54,7 +49,7 @@ const config = {
         "alt": "Short game practice on a putting green"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/v6zdbc1qqsrmy0cwx0fv3p426g.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ScarboroGandC2.jpeg",
         "alt": "Historic clubhouse and tree lined fairway at Scarboro G&CC"
       }
     ],
@@ -128,8 +123,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18 or older. One entry per person.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -166,6 +159,8 @@ const config = {
       "Follow us on Instagram and Facebook for winner updates",
       "Enter today so you do not miss the deadline"
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18 or older. One entry per person.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Draw",
       "text": "We select the winner at random from all valid entries. Every entry has the same chance to win."
@@ -186,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1773766026267_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -208,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1773766026267_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -234,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1773766026267_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,6 +255,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Swing Into Spring Golf Lesson Package</strong> is in. We will draw the winner on May 14, 2026 and email the result. Good luck!",
+    "socialPromptText": "Watch your inbox on May 14. Check spam too. Follow us on social for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/DavePattersonTorontoRealEstate/",
