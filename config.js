@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773766026267_0",
+      "id": "q_auto_1773766143564_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773766026267_1",
+      "id": "q_auto_1773766143564_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773766026267_2",
+      "id": "q_auto_1773766143564_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -263,13 +263,13 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Swing Into Spring Golf Lesson Package</strong> is in. We will draw the winner on May 14, 2026 and email the result. Good luck!",
-    "socialPromptText": "Watch your inbox on May 14. Check spam too. Follow us on social for the winner post."
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Swing Into Spring Golf Lesson Package has been received. Complete your entry below to be eligible for the May 14 draw.",
+    "socialPromptText": "Follow @selling_the_6ix on Instagram to complete your entry - only followers are eligible\n"
   },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/DavePattersonTorontoRealEstate/",
+      "facebook": "",
       "instagram": "https://www.instagram.com/selling_the_6ix/"
     },
     "agentContact": {
