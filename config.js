@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-image001.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/pwvp1cm6ysrmt0cwx0er60bx30.jpg",
         "alt": "Golfer taking a lesson on the range at Scarboro Golf & Country Club"
       },
       {
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1774461285730_0",
+      "id": "q_auto_1774461336984_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1774461285730_1",
+      "id": "q_auto_1774461336984_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1774461285730_2",
+      "id": "q_auto_1774461336984_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
