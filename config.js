@@ -81,7 +81,7 @@ const config = {
     ],
     "name": "Swing Into Spring Golf Lesson Package",
     "value": "$500 Value",
-    "description": "Picture this, you step onto a quiet range at a historic Toronto club. Trees line the fairway. The city fades. You get one on one help from pro coach Matthew Peavoy. He fixes your setup. He tunes your swing. You get simple drills. You build a repeatable move. Your shots fly pure. Your score drops. These lessons fit your busy life. Learn fast. Have fun. Play better this season.",
+    "description": "Picture this. You step onto a quiet range at a historic Toronto club. Trees line the fairway. The city fades.\n\nYou're working one on one with Matthew Peavoy - a PGA of Canada member with 25+ years of experience, a Top 100 PGA of Ontario instructor, and a coach who has worked with players at every level, including PGA Tour major champions.\n\nHe reads your setup. He fixes what's holding you back. You get clear, simple drills and a repeatable swing you can actually trust. Your shots fly pure. Your score drops.\n\nThese lessons fit your busy life. Learn fast. Have fun. Play better this season.",
     "limitedTimeOfferText": "Spring Giveaway, Ends May 14",
     "ctaButtonText": "I Want Better Golf Now!"
   },
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1774461215935_0",
+      "id": "q_auto_1774461285730_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1774461215935_1",
+      "id": "q_auto_1774461285730_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1774461215935_2",
+      "id": "q_auto_1774461285730_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
