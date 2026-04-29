@@ -129,24 +129,16 @@ const config = {
         "a": "Entries close May 14, 2026 at 11:59 PM ET. We draw the winner on May 14, 2026."
       },
       {
-        "q": "Where are the lessons?",
-        "a": "At Scarboro Golf & Country Club in Toronto, with pro coach Matthew Peavoy."
-      },
-      {
-        "q": "Do I need to be a member?",
-        "a": "The prize is for lessons at Scarboro Golf & Country Club. Any access details will be shared when you book."
-      },
-      {
-        "q": "What does the $500 cover?",
-        "a": "It covers lesson fees up to $500. Any other costs, if any, are not included."
-      },
-      {
         "q": "What skill level is this for?",
         "a": "All levels. New, casual, or low handicap. The coach adjusts to you."
       },
       {
         "q": "Can I transfer the prize?",
         "a": "The prize is for the winner. Ask us if you need a name change and we will do our best to help."
+      },
+      {
+        "q": "What does the $500 cover?",
+        "a": "It covers lesson fees up to $500. Any other costs, if any, are not included."
       }
     ],
     "tips": [
@@ -177,7 +169,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1777481315931_0",
+      "id": "q_auto_1777481390611_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +191,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1777481315931_1",
+      "id": "q_auto_1777481390611_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1777481315931_2",
+      "id": "q_auto_1777481390611_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
